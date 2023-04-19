@@ -6,7 +6,7 @@ let roll = prompt('Roll');
 let bn = Number(prompt('Bangla'));
 let en = Number(prompt('English'));
 let math = Number(prompt('Math'));
-let s = Number(prompt('Science'));
+let s = Number(prompt('Science'));   
 let ss = Number(prompt('Social Science'));
 let rel = Number(prompt('Religion'));
 
